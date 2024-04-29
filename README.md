@@ -15,7 +15,7 @@
 
 3. Используется база данных SQLite (файл **proba.db**)
 
-4. Программа находится в ветке [`main`](https://github.com/Kutlubaeva6/phonebook/blob/main/phone.py "Открыть решение")
+4. Программа находится в ветке [`main`](https://github.com/Kutlubaeva6/Phone/blob/main/main.py "Открыть решение")
 
 5. Пояснение по чтению кода:
 
